@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: rgb(50, 94, 9);
+    background-size: cover;
+    color: white;
+    margin: 0;
+}
+
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho-menu-links {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+}
